@@ -1,0 +1,41 @@
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\Utils.exe.config
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\EntityFramework.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\Newtonsoft.Json.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\SQLite.Designer.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\System.Data.SQLite.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\EnvDTE.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\stdole.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\Microsoft.MSXML.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\Newtonsoft.Json.xml
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\SQLite.Designer.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\System.Data.SQLite.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\System.Data.SQLite.EF6.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\System.Data.SQLite.Linq.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Release\EnvDTE.xml
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Release\Utils.csproj.Utils.exe.config
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Release\Utils.Properties.Resources.resources
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Release\Utils.csproj.GenerateResource.Cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Release\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Release\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Release\Utils.csprojResolveAssemblyReference.cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Release\Utils.exe.config
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Release\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Release\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Release\EntityFramework.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Release\Newtonsoft.Json.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Release\System.Data.SQLite.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Release\Newtonsoft.Json.xml
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Release\Utils.csprojResolveAssemblyReference.cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Release\Utils.Properties.Resources.resources
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Release\Utils.csproj.GenerateResource.Cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Release\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Release\Utils.pdb

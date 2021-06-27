@@ -1,0 +1,13 @@
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\bin\Debug\SubirServidor.exe.config
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\bin\Debug\SubirServidor.exe
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\bin\Debug\SubirServidor.pdb
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\obj\Debug\SubirServidor.Properties.Resources.resources
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\obj\Debug\SubirServidor.csproj.GenerateResource.Cache
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\obj\Debug\SubirServidor.exe
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\obj\Debug\SubirServidor.pdb
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\obj\Debug\SubirServidor.csprojResolveAssemblyReference.cache
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\obj\Debug\SubirServidor.Visao.FO_Principal.resources
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\bin\Debug\Utils.exe
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\bin\Debug\System.Data.SQLite.dll
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\bin\Debug\Utils.pdb
+c:\users\milena\documents\visual studio 2015\Projects\SubirServidor\SubirServidor\obj\Debug\SubirServidor.Visao.FO_CadastroServidor.resources

@@ -1,0 +1,14 @@
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\bin\Release\SubirServidor.exe.config
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\bin\Release\SubirServidor.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\bin\Release\SubirServidor.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\bin\Release\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\bin\Release\System.Data.SQLite.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\bin\Release\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\bin\Release\System.Data.SQLite.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\obj\Release\SubirServidor.csprojResolveAssemblyReference.cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\obj\Release\SubirServidor.Properties.Resources.resources
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\obj\Release\SubirServidor.Visao.FO_CadastroServidor.resources
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\obj\Release\SubirServidor.Visao.FO_Principal.resources
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\obj\Release\SubirServidor.csproj.GenerateResource.Cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\obj\Release\SubirServidor.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\SubirServidor\obj\Release\SubirServidor.pdb

@@ -1,0 +1,56 @@
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\obj\Debug\Utils.csproj.GenerateResource.Cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\bin\Debug\Utils.exe.config
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\bin\Debug\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\bin\Debug\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\bin\Debug\EntityFramework.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\bin\Debug\System.Data.SQLite.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\obj\Debug\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\obj\Debug\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Debug\Utils.csproj.GenerateResource.Cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Debug\Utils.exe.config
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Debug\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Debug\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Debug\EntityFramework.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Debug\System.Data.SQLite.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Debug\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale Pro\Utils\obj\Debug\Utils.pdb
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\bin\Debug\Utils.exe.config
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\bin\Debug\Utils.exe
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\bin\Debug\Utils.pdb
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\bin\Debug\System.Data.SQLite.dll
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\obj\Debug\Utils.csproj.GenerateResource.cache
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\obj\Debug\Utils.exe
+C:\Users\rodrigo.machado\Documents\Visual Studio 2019\Projects\SunSale\Utils\obj\Debug\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SunSale\SunSale\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Debug\Utils.Properties.Resources.resources
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Debug\Utils.csproj.GenerateResource.Cache
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Debug\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Debug\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Debug\Utils.exe.config
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Debug\Utils.exe
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Debug\Utils.pdb
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Debug\EntityFramework.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Debug\System.Data.SQLite.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Milena\Documents\Visual Studio 2015\Projects\SubirServidor\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
